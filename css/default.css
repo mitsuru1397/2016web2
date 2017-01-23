@@ -19,5 +19,8 @@ body{
 }
 body{
   background-color: gray;
-  margin: 48px 0 0 0;
+  //margin: 48px 0 0 0;
+  width: 100%;
+  left: 0;
+  top: 0;
 }
