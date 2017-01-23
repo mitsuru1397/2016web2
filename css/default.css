@@ -7,3 +7,10 @@
  header{
   background-color: orange;
   }
+header{
+  background-color: orange;
+  position: fixed;
+  left: 0;
+  top: 0;
+  width: 100%;
+}
