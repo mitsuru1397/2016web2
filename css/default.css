@@ -5,12 +5,15 @@
  }
  
  header{
-  background-color: orange;
+  background-color: gray;
   }
 header{
-  background-color: orange;
+  background-color: gray;
   position: fixed;
   left: 0;
   top: 0;
   width: 100%;
+}
+body{
+  background-color: gray;
 }
